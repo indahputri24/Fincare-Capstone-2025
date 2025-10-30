@@ -55,7 +55,9 @@ Setelah menyelesaikan pelatihan, pengguna dapat mengunggah sertifikat hasil pela
 
 Pengguna dapat memantau status pencairan insentif secara langsung, apakah masih menunggu, sudah diterima, atau ditolak.
 
-## </> 5 Pillar Objek Oriented Programming 
+## </> 5 Pillar Objek Oriented Programming
+
+Lima pilar utama dalam Pemrograman Berorientasi Objek (Object-Oriented Programming / OOP) merupakan dasar dalam membangun sistem yang terstruktur dan mudah dikelola. Konsep ini membantu pengembang untuk membuat program yang efisien, aman, serta mudah dikembangkan di masa mendatang.
 
 
 
