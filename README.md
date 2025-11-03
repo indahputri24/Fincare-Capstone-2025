@@ -178,3 +178,66 @@ MEMBELI PELATIHAN 2 KALI
 MEMBELI LAGI DENGAN SALDO YANG KURANG
 
 <img width="1583" height="1241" alt="image" src="https://github.com/user-attachments/assets/db708a83-b708-4d66-b792-d14068052429" />
+
+
+# CAPSTONE13
+
+UPLOAD SERTIF
+
+<img width="1590" height="1242" alt="image" src="https://github.com/user-attachments/assets/eae2bd8c-1bfe-42ea-b066-4e23971666c2" />
+
+BEEHASIL UPLOAD
+
+<img width="1586" height="1239" alt="image" src="https://github.com/user-attachments/assets/3650e7f6-0839-4e1f-9afc-c96d3db8e5e9" />
+
+KLIK LINK OTOMATIS MENUJU CHROME
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/4b69c448-8995-462f-84b6-1e9137235a8f" />
+
+KETIKA PENGGUNA UPLOAD SERTIF TAPI MASIH ADA SERTIF YANG STATUSNYA MENUNGGU
+
+<img width="1593" height="1253" alt="image" src="https://github.com/user-attachments/assets/dc25bde8-3ff1-470b-bb9a-2659618f41d9" />
+
+LIHAT INSENTIF TPI SERTIF BUUM DITERIMA
+
+<img width="1592" height="1255" alt="image" src="https://github.com/user-attachments/assets/cf024946-2bdb-49d5-bd5f-a9bfb3bb3065" />
+
+HOME ADMIN MEMVERIFIKASI SERTIFIKAT
+
+<img width="1590" height="1249" alt="image" src="https://github.com/user-attachments/assets/304f7588-80b8-4b2f-9628-5a0bda4bbaef" />
+
+MENCARI PENGGUNA DAN MENGECEK SERTIF
+
+<img width="1585" height="1251" alt="image" src="https://github.com/user-attachments/assets/4d4d7d38-b74b-44ab-b168-95f768a5316c" />
+
+MENUJU LINK
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/de536696-e29d-4ee4-b1ec-f7aa10fee6b1" />
+
+MENYETUJUI
+
+<img width="1582" height="1244" alt="image" src="https://github.com/user-attachments/assets/dc820b4e-ac62-49f8-94a2-006224710c1e" />
+
+<img width="1588" height="1239" alt="image" src="https://github.com/user-attachments/assets/ba8213fc-a1a2-4a75-a712-477a449101bc" />
+
+STATUS BERUBAH DI PENGGUNA
+
+<img width="1589" height="1259" alt="image" src="https://github.com/user-attachments/assets/85d4b7a7-c6f7-474d-b075-26ecc9753b77" />
+
+INSENTIF MASUK PENGGUNA
+
+<img width="1592" height="1246" alt="image" src="https://github.com/user-attachments/assets/9aaa15bd-227b-41b8-8b4c-fbebc64bf51b" />
+
+CAIRKAN INSENTIF
+
+<img width="1599" height="1248" alt="image" src="https://github.com/user-attachments/assets/58bc660e-55a0-4452-b117-e744fff2cf4f" />
+
+<img width="1592" height="1247" alt="image" src="https://github.com/user-attachments/assets/7dbf7baf-9f84-4cfe-8b8d-768e129fa972" />
+
+<img width="1590" height="1241" alt="image" src="https://github.com/user-attachments/assets/3d10664b-2f96-4bee-b74d-f143dfae8004" />
+
+LIHAT INSENTIF DI ADMIN
+
+<img width="1590" height="1253" alt="image" src="https://github.com/user-attachments/assets/db56edaf-9ce7-4561-8964-39447e663ac6" />
+
+
